@@ -1,4 +1,4 @@
-# Cyber Security Resources 
+# Cyber Security Resources: Tech Key
 
 <center><img src="https://h4cker.org/img/h4cker2.PNG" width="200" height="300" /> </center>
 
@@ -17,4 +17,4 @@ These courses serve as comprehensive guide for any network and security professi
 These video courses are published by Pearson, but this GitHub repository is maintained and supported by the lead author of the series [Omar Santos](https://omarsantos.io/). 
 
 ## Live Training
-Other Live Training and Video Courses: https://h4cker.org/training
+Other Live Training and Video Courses: https://h4cker.org/training / techkey.ml
